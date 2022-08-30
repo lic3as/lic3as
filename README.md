@@ -6,6 +6,6 @@
 <!-- stats --!>
 <div style="display: inline_block">
   <a href="https://github.com/lic3as">
-  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=lic3as&show_icons=true&theme=tokyonight"/>
-  <img align="center" width="300px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lic3as"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=lic3as&show_icons=true&theme=tokyonight"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lic3as&layout=compact"/>
 </div>
