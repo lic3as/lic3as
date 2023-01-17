@@ -2,7 +2,7 @@
 
 - Sou uma cearense de 19 anos que ama tecnologia e funciona à base de café+leite²;
 - Sou técnica em Informática e faço Engenharia de Computação na UFC;
-- Atualmente, estou estudando C, mas pretendo aprender mais Python em breve;
+- Atualmente, estou estudando C e C++, mas pretendo aprender mais Python em breve;
 
 <!-- stats --!>
 <div style="display: inline_block">
