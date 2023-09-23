@@ -1,6 +1,6 @@
 ## Oiii, eu sou Alice! :)
 
-- Sou uma cearense de 19 anos que ama tecnologia e funciona à base de café+leite²;
+- Sou uma cearense de 20 anos que ama tecnologia e funciona à base de café+leite²;
 - Sou técnica em Informática e faço Engenharia de Computação na UFC;
 - Atualmente, estou estudando C e Assembly;
 
