@@ -1,8 +1,8 @@
 ## Oiii, eu sou Alice! :)
 
 - Sou uma cearense de 21 anos que ama tecnologia e funciona à base de café+leite²;
-- Sou técnica em Informática e faço Engenharia de Computação na UFC;
-- Atualmente, estou estudando C, Python e MySQL;
+- Sou técnica em Informática e faço Ciência da Computação na UFC;
+- Atualmente, estou estudando Python e desenvolvimento web;
 
 <!-- stats --!>
 <div style="display: inline_block">
