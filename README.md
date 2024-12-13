@@ -13,7 +13,6 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-%23525252.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### Estatísticas
 
