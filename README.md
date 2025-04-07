@@ -2,7 +2,7 @@
 
 - Sou uma cearense de 21 anos que ama tecnologia e funciona à base de café+leite²;
 - Sou técnica em Informática e faço Ciência da Computação na UFC;
-- Atualmente, estou estudando Python e desenvolvimento web;
+- Atualmente, estou estudando C, Java e desenvolvimento web;
 
 ### Experiências
 
